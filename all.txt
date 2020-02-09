@@ -1,0 +1,37 @@
+2015/16
+Liverpool Chelsea H 1 1 Spurs H 1 1 Mancity H 3 0 ManU H 0 1 Arsenal H 3 3 Mancity A 1 4 Chelsea A 3 1 Spurs A 0 0 ManU A 1 3 Arsenal A 0 0 
+Spurs Chelsea A 2 2 ManU H 3 0 Liverpool A 1 1 Arsenal H 2 2 Mancity A 2 1 Chelsea H 0 0 Arsenal A 1 1 Liverpool H 0 0 Mancity H 4 1 ManU A 0 1 
+Arsenal Spurs A 2 2 ManU A 2 3 Chelsea H 0 1 Liverpool A 3 3 Mancity H 2 1 Spurs H 1 1 ManU H 3 0 Chelsea A 0 2 Liverpool H 0 0 Mancity A 2 2 
+Mancity Arsenal H 2 2 Chelsea A 3 0 ManU H 0 1 Liverpool A 3 0 Spurs H 1 2 Arsenal A 1 2 Liverpool H 1 4 ManU A 0 0 Spurs A 1 4 Chelsea H 3 0 
+ManU Spurs A 0 3 Mancity A 1 0 Arsenal H 3 2 Chelsea A 1 1 Liverpool A 1 0 Chelsea H 0 0 Mancity H 0 0 Arsenal A 3 0 Liverpool H 3 1 Spurs H 1 0 
+Chelsea Liverpool H 3 1 Spurs H 2 2 Mancity H 0 3 ManU H 1 1 Arsenal A 1 0 ManU A 0 0 Spurs A 0 0 Arsenal H 2 0 Mancity A 0 3 Liverpool A 1 1
+
+
+
+2016/17
+Liverpool Mancity A 1 1 Arsenal H 3 1 Spurs H 2 0 Chelsea H 1 1 ManU A 1 1 Mancity H 1 0 ManU H 0 0 Chelsea A 2 1 Spurs A 1 1 Arsenal A 4 3 
+Spurs ManU H 2 1 Arsenal H 2 0 Liverpool A 0 2 Mancity A 2 2 Chelsea H 2 0 ManU A 0 1 Chelsea A 1 2 Arsenal A 1 1 Mancity H 2 0 Liverpool H 1 1 
+Arsenal ManU H 2 0 Spurs A 0 2 Mancity H 2 2 Liverpool A 1 3 Chelsea A 3 1 Mancity A 1 2 ManU A 1 1 Spurs H 1 1 Chelsea H 3 0 Liverpool H 3 4 
+Mancity ManU H 0 0 Chelsea A 1 2 Arsenal A 2 2 Liverpool H 1 1 Spurs H 2 2 Liverpool A 0 1 Arsenal H 2 1 Chelsea H 1 3 Spurs A 2 0 ManU A 2 1 
+ManU Spurs A 1 2 Arsenal A 2 0 Mancity A 0 0 Chelsea H 2 0 Liverpool H 1 1 Spurs H 1 0 Arsenal H 1 1 Chelsea A 0 4 Liverpool A 0 0 Mancity H 1 2 
+Chelsea ManU A 0 2 Mancity H 2 1 Arsenal H 3 1 Liverpool A 1 1 Spurs A 0 2 Mancity A 3 1 Spurs H 2 1 ManU H 4 0 Arsenal A 3 0 Liverpool H 1 2 
+
+
+
+2017/18
+Liverpool Chelsea A 0 1 ManU A 1 2  Spurs H 2 2 Mancity H 4 3 Arsenal A 3 3 Chelsea H 1 1 Spurs A 1 4 ManU H 0 0 Mancity A 0 5 Arsenal H 4 0 
+Spurs Mancity H 1 3 Chelsea A 3 1 Arsenal H 1 0 Liverpool A 2 2 ManU H 2 0 Mancity A 1 4 Arsenal A 0 2  ManU A 0 1 Liverpool H 4 1 Chelsea H 1 2
+Arsenal Chelsea A 0 0 ManU H 1 3 Chelsea H 2 2 Mancity H 0 3 ManU A 1 2 Spurs H 2 2 Liverpool A  0 4 Spurs A 0 1 Liverpool H 3 3 Mancity A 1 3
+Mancity Liverpool A 3 4 Liverpool H 5 0 Spurs A 3 1 Spurs H 4 1 ManU A 2 1 ManU H 2 3 Chelsea H 1 0 Chelsea A 1 0 Arsenal H 0 2 Arsenal A 2 2
+ManU Liverpool A 0 0 Spurs H 1 0 Chelsea A 0 1 Arsenal A 3 1 Mancity H 1 2 Spurs A 0 2 Chelsea H 2 1 Liverpool H 2 1 Mancity A 3 2 Arsenal H 2 1 
+Chelsea Liverpool H 1 0 Spurs H 3 1 Mancity A 0 1 ManU A 1 2 Arsenal A 2 2 Liverpool A 1 1 ManU H 1 0 Mancity H 0 1 Arsenal H 0 0 Spurs A 2 1
+
+
+2018/19
+Liverpool Spurs A 2 1 Chelsea A 1 1 Mancity H 0 0 Arsenal A 1 1 ManU H 3 1 Arsenal H 5 1 Mancity A 1 2 ManU A 0 0 Spurs H 2 1 Chelsea H 2 0 
+Spurs Mancity A 0 1 Liverpool A 1 2 Arsenal H 1 1 Chelsea A 2 0 ManU H 0 1 Arsenal A 2 4 Chelsea H 3 1 Mancity H 0 1 Liverpool H 1 2 ManU A 3 0 
+Arsenal ManU H 2 0 Spurs A 1 1 Mancity A 1 3 Chelsea H 2 0 Liverpool A 1 5 ManU A 2 2 Spurs H 4 2 Liverpool H 1 1 Chelsea A 2 3 Mancity H 0 2 
+Mancity ManU A 2 0 Spurs H 1 0 Chelsea H 6 0 Arsenal H 3 1 Liverpool H 2 1 Chelsea A 2 0 ManU H 3 1 Spurs A 1 0 Liverpool A 0 0 Arsenal A 2 0 
+ManU Spurs H 0 3 Chelsea A 2 2 Mancity A 1 3 Arsenal H 2 2 Liverpool A 1 3 Spurs A 1 0  Liverpool H 0 0 Arsenal A 0 2 Mancity H 0 2 Chelsea H 1 1
+Chelsea Liverpool H 1 1 Liverpool A 0 2 Spurs H 2 1 Spurs A 1 1 Arsenal A 0 2 Arsenal H 3 2 ManU H 2 2 ManU A 1 1 Mancity A 0 6 Mancity H 0 2 
+
